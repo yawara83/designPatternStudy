@@ -16,7 +16,7 @@ public class StudentList {
         last++;
     }
 
-    public Student getStudent(int index) {
+    public Student getStudentAt(int index) {
         return students[index];
     }
 
